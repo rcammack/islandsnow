@@ -3,3 +3,13 @@
   border: none;
   box-shadow: none;
 }
+
+.ui.dropdown.fitted.item {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#mainmenu {
+  border: none;
+  box-shadow: none;
+}
